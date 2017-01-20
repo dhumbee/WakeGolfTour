@@ -1,0 +1,675 @@
+Leon Woods  ,Raleigh 1,Sat,5,5,4,2,2,4,4,6,3,2,4,4,3,3,7,4,4,3
+Phil Mickey ,Raleigh 1,Sat,3,4,2,5,5,7,5,5,5,3,4,4,4,5,4,2,3,6
+Arnie Ponds ,Raleigh 1,Sat,3,5,6,5,2,6,4,4,3,2,5,6,4,2,7,3,2,3
+Rory Elroy  ,Raleigh 1,Sat,2,3,2,6,2,5,3,6,4,2,2,6,6,5,4,3,3,4
+Jason Night ,Raleigh 1,Sat,6,3,5,4,5,7,5,3,2,5,4,5,4,5,4,3,5,2
+Dusty Johns ,Raleigh 1,Sat,5,5,4,3,4,3,6,4,3,6,4,3,4,2,5,5,4,3
+Lee Trevor  ,Raleigh 1,Sat,4,2,6,5,5,5,5,6,6,6,2,2,2,6,5,5,3,4
+Jose Garcia ,Raleigh 1,Sat,6,2,4,4,3,3,3,4,2,6,4,3,5,5,4,5,2,2
+Andy Palmer ,Raleigh 1,Sat,5,4,4,6,4,7,4,6,3,4,5,2,5,3,6,5,5,3
+Sam Smith   ,Raleigh 1,Sat,2,3,5,2,6,7,2,5,2,6,3,4,3,4,5,4,4,3
+Joe Watson  ,Raleigh 1,Sat,3,3,4,4,6,6,3,6,3,6,3,4,6,2,3,5,4,5
+Tom Watts   ,Raleigh 1,Sat,4,2,5,3,3,7,2,3,4,6,5,3,4,6,4,3,2,6
+David Horse ,Raleigh 1,Sat,4,2,3,2,3,7,3,5,3,5,3,2,4,2,3,2,4,5
+James Hand  ,Raleigh 1,Sat,5,4,3,5,4,4,4,6,4,3,5,6,4,4,5,6,6,4
+Jack Nickels,Raleigh 1,Sat,4,4,2,6,6,6,3,3,3,2,4,5,3,6,5,2,6,5
+Leon Woods  ,Raleigh 1,Sun,2,5,6,5,3,3,2,3,6,3,4,6,6,4,7,3,6,4
+Phil Mickey ,Raleigh 1,Sun,4,5,4,2,3,5,5,3,2,4,4,3,4,2,7,3,2,6
+Arnie Ponds ,Raleigh 1,Sun,5,5,2,4,5,7,5,2,5,5,4,4,5,6,3,3,5,3
+Rory Elroy  ,Raleigh 1,Sun,6,3,6,6,6,3,4,5,2,4,3,3,2,6,7,2,2,4
+Jason Night ,Raleigh 1,Sun,6,5,5,2,5,5,6,4,4,5,2,3,4,6,4,6,6,5
+Dusty Johns ,Raleigh 1,Sun,5,5,4,2,4,3,2,5,4,3,5,5,6,3,5,3,5,3
+Lee Trevor  ,Raleigh 1,Sun,6,5,6,3,4,4,3,2,2,4,2,3,5,4,3,5,3,2
+Jose Garcia ,Raleigh 1,Sun,5,2,2,6,4,6,2,3,6,6,5,3,4,5,7,2,2,3
+Andy Palmer ,Raleigh 1,Sun,4,3,6,4,2,3,4,5,4,2,4,5,6,6,7,5,6,2
+Sam Smith   ,Raleigh 1,Sun,2,4,3,3,2,4,4,3,2,3,2,6,4,6,5,6,3,3
+Joe Watson  ,Raleigh 1,Sun,2,5,3,2,5,5,4,4,3,3,5,2,5,6,3,4,2,5
+Tom Watts   ,Raleigh 1,Sun,2,5,2,2,4,3,6,4,6,5,4,3,3,6,4,5,6,3
+David Horse ,Raleigh 1,Sun,4,3,5,6,4,4,5,5,3,2,4,5,2,4,3,4,3,4
+James Hand  ,Raleigh 1,Sun,5,2,5,2,3,3,3,2,4,5,5,5,4,6,4,2,4,3
+Jack Nickels,Raleigh 1,Sun,6,2,6,3,2,3,6,4,4,3,3,3,5,2,6,4,2,3
+Tim Hurst   ,Raleigh 2,Thu,3,3,4,4,5,4,2,5,2,2,3,6,3,2,6,6,2,4   
+Greg Bond   ,Raleigh 2,Thu,4,4,2,2,5,3,3,6,6,5,2,6,3,2,6,4,5,2   
+Ricky Walker,Raleigh 2,Thu,5,5,2,2,3,6,5,4,2,4,3,2,6,6,3,3,6,5
+Jacob Fowler,Raleigh 2,Thu,4,3,2,3,2,4,6,3,6,4,5,2,3,3,4,6,4,3
+Jonah Vegas ,Raleigh 2,Thu,5,3,2,6,2,3,4,2,5,5,2,3,3,5,3,4,6,3
+Kevin Nay   ,Raleigh 2,Thu,5,5,4,5,2,7,4,4,2,6,4,3,3,3,3,3,2,4
+Scott Kelly ,Raleigh 2,Thu,2,4,3,3,3,7,5,2,6,6,5,6,5,6,7,6,4,6
+Luke Jones  ,Raleigh 2,Thu,5,3,5,3,4,7,5,3,3,6,4,5,2,2,4,3,5,5
+Sean Lard   ,Raleigh 2,Thu,4,3,3,4,5,3,2,4,5,2,3,5,5,3,4,6,4,5
+Tony Fiend  ,Raleigh 2,Thu,5,2,4,4,6,7,6,3,3,2,3,5,6,4,6,2,4,4
+Bob Stripe  ,Raleigh 2,Thu,4,3,4,4,2,7,2,2,4,6,5,2,4,6,7,2,2,6
+Matt Lust   ,Raleigh 2,Thu,3,5,2,4,4,4,2,6,6,6,2,4,5,3,7,6,2,2
+Dick Blend  ,Raleigh 2,Thu,5,4,2,3,2,6,6,4,2,4,2,5,2,2,5,3,6,3
+Alex Kahn   ,Raleigh 2,Thu,4,5,6,6,6,3,2,2,6,3,3,4,4,2,5,4,6,6
+Jerry Owens ,Raleigh 2,Thu,2,5,3,5,6,7,2,4,6,6,2,6,3,3,4,3,4,6
+Tim Hurst   ,Raleigh 2,Fri,6,4,3,6,4,5,5,5,4,5,4,2,6,6,7,2,4,5
+Greg Bond   ,Raleigh 2,Fri,6,4,4,2,6,5,2,3,2,4,3,3,6,4,3,6,5,4
+Ricky Walker,Raleigh 2,Fri,2,3,5,6,5,4,4,3,6,3,2,5,4,3,7,5,5,4
+Jacob Fowler,Raleigh 2,Fri,6,3,3,5,3,5,4,4,3,5,5,3,2,5,6,6,6,2
+Jonah Vegas ,Raleigh 2,Fri,6,3,3,4,2,5,4,3,4,5,2,3,5,3,7,3,3,6
+Kevin Nay   ,Raleigh 2,Fri,5,3,4,2,3,6,2,3,4,6,5,4,6,3,5,4,3,2
+Scott Kelly ,Raleigh 2,Fri,4,3,3,4,3,5,4,2,4,4,5,4,3,2,7,2,6,6
+Luke Jones  ,Raleigh 2,Fri,3,4,5,2,4,5,6,4,3,3,4,4,3,5,7,3,6,4
+Sean Lard   ,Raleigh 2,Fri,4,2,5,2,6,3,4,3,2,2,2,4,3,5,6,6,3,5
+Tony Fiend  ,Raleigh 2,Fri,6,4,2,4,2,4,2,5,3,3,4,2,2,6,4,4,3,5
+Bob Stripe  ,Raleigh 2,Fri,5,3,6,5,6,4,4,6,2,3,5,6,4,6,3,4,5,3
+Matt Lust   ,Raleigh 2,Fri,3,3,3,3,2,6,2,3,6,2,3,2,6,5,3,2,5,6
+Dick Blend  ,Raleigh 2,Fri,4,4,3,5,3,5,4,5,4,5,2,3,3,2,5,3,5,4
+Alex Kahn   ,Raleigh 2,Fri,3,5,5,4,3,7,6,5,5,6,5,4,2,3,7,4,3,4
+Jerry Owens ,Raleigh 2,Fri,4,2,5,4,3,7,6,3,2,4,2,4,4,3,6,5,6,3
+Tim Hurst   ,Raleigh 2,Sat,3,4,3,5,3,4,6,2,4,5,4,5,3,6,6,2,5,5
+Greg Bond   ,Raleigh 2,Sat,6,4,3,3,4,6,6,3,3,3,5,3,6,6,6,6,2,5
+Ricky Walker,Raleigh 2,Sat,2,5,5,6,2,4,4,4,6,4,2,2,3,2,5,4,5,2
+Jacob Fowler,Raleigh 2,Sat,5,4,5,2,3,4,3,6,5,6,2,4,3,6,7,4,4,6
+Jonah Vegas ,Raleigh 2,Sat,6,5,5,6,3,6,6,4,3,6,3,6,4,6,3,3,3,4
+Kevin Nay   ,Raleigh 2,Sat,2,3,5,3,5,7,5,2,2,4,2,2,2,3,4,5,6,5
+Scott Kelly ,Raleigh 2,Sat,2,3,5,5,6,5,6,4,4,5,2,5,5,6,7,4,6,4
+Luke Jones  ,Raleigh 2,Sat,4,2,2,6,6,5,2,2,2,5,4,5,6,3,7,5,3,5
+Sean Lard   ,Raleigh 2,Sat,4,2,5,5,5,7,5,4,4,5,3,5,3,6,3,2,3,4
+Tony Fiend  ,Raleigh 2,Sat,3,4,4,3,4,3,2,4,3,4,5,3,5,4,3,3,6,3
+Bob Stripe  ,Raleigh 2,Sat,2,3,3,2,6,7,2,2,3,3,5,6,3,6,3,6,4,3
+Matt Lust   ,Raleigh 2,Sat,3,3,5,4,3,3,6,5,3,6,3,5,4,2,3,6,3,6
+Dick Blend  ,Raleigh 2,Sat,2,2,3,4,4,6,5,5,4,5,4,2,5,2,4,5,5,6
+Alex Kahn   ,Raleigh 2,Sat,4,2,2,5,2,7,4,5,6,5,3,5,3,6,4,5,6,6
+Jerry Owens ,Raleigh 2,Sat,6,5,3,5,5,5,5,6,4,5,2,3,4,6,3,6,3,2
+Tim Hurst   ,Raleigh 2,Sun,6,2,6,4,4,5,4,3,2,2,3,2,3,5,6,4,5,4
+Greg Bond   ,Raleigh 2,Sun,2,5,2,6,6,6,3,5,6,2,2,4,4,3,3,2,4,5
+Ricky Walker,Raleigh 2,Sun,4,5,3,2,6,7,2,3,5,5,4,2,2,6,3,3,6,6
+Jacob Fowler,Raleigh 2,Sun,2,4,4,2,5,6,2,5,3,6,2,2,3,3,3,4,3,5
+Jonah Vegas ,Raleigh 2,Sun,6,2,2,2,2,6,5,4,6,6,3,3,4,3,4,5,5,3
+Kevin Nay   ,Raleigh 2,Sun,3,3,2,5,5,7,3,3,2,5,4,4,5,3,6,6,6,5
+Scott Kelly ,Raleigh 2,Sun,4,5,3,6,3,5,3,3,3,2,3,3,3,3,6,5,4,2
+Luke Jones  ,Raleigh 2,Sun,5,3,5,2,5,3,4,6,3,4,3,4,2,4,5,2,4,2
+Sean Lard   ,Raleigh 2,Sun,4,2,6,2,5,7,2,4,6,6,2,3,6,2,6,6,5,3
+Tony Fiend  ,Raleigh 2,Sun,5,2,2,6,3,3,4,6,5,2,2,2,5,5,5,3,5,5
+Bob Stripe  ,Raleigh 2,Sun,3,3,5,5,5,3,2,2,4,2,2,2,3,3,3,6,3,4
+Matt Lust   ,Raleigh 2,Sun,5,3,3,3,3,7,3,3,2,6,5,5,6,2,7,6,2,2
+Dick Blend  ,Raleigh 2,Sun,5,4,4,4,3,3,6,6,2,5,3,4,4,3,7,6,6,6
+Alex Kahn   ,Raleigh 2,Sun,5,4,5,2,5,3,5,3,3,6,2,2,2,2,3,4,2,5
+Jerry Owens ,Raleigh 2,Sun,2,5,6,6,4,3,4,6,6,2,2,3,3,6,5,5,3,6
+Dick Blend  ,Raleigh 3,Fri,4,5,3,3,3,6,6,6,5,4,2,3,2,2,4,3,2,5
+Alex Kahn   ,Raleigh 3,Fri,5,5,6,2,2,3,3,6,6,3,5,3,4,2,6,2,4,2
+Jerry Owens ,Raleigh 3,Fri,3,2,6,2,6,5,2,4,6,3,3,6,4,5,7,2,5,6
+Leon Woods  ,Raleigh 3,Fri,6,4,6,3,5,4,3,5,2,5,5,5,4,4,3,3,4,6
+Phil Mickey ,Raleigh 3,Fri,5,5,2,4,2,4,4,2,3,3,4,2,4,5,3,4,2,4
+Arnie Ponds ,Raleigh 3,Fri,2,5,2,4,6,3,6,4,2,3,2,4,2,4,6,4,4,5
+Rory Elroy  ,Raleigh 3,Fri,3,5,2,3,3,7,5,3,4,6,4,6,3,3,4,5,4,6
+Jason Night ,Raleigh 3,Fri,2,3,5,2,6,6,4,4,2,2,2,4,6,3,4,4,3,3
+Dusty Johns ,Raleigh 3,Fri,4,2,5,4,2,5,6,4,2,4,4,6,6,4,5,6,4,5
+Lee Trevor  ,Raleigh 3,Fri,4,4,6,3,2,6,3,6,2,3,2,5,2,6,4,3,6,6
+Jose Garcia ,Raleigh 3,Fri,5,5,6,6,4,4,6,2,2,3,4,4,5,6,6,5,5,2
+Andy Palmer ,Raleigh 3,Fri,3,3,4,3,5,3,3,2,6,4,4,5,4,5,6,6,4,2
+Sam Smith   ,Raleigh 3,Fri,2,4,4,3,4,7,2,4,6,5,3,2,4,2,3,2,5,2
+Joe Watson  ,Raleigh 3,Fri,6,3,2,3,4,4,5,5,3,6,4,6,6,6,4,5,5,5
+Tom Watts   ,Raleigh 3,Fri,3,2,3,4,6,5,3,3,5,5,3,4,5,2,6,5,6,3
+Dick Blend  ,Raleigh 3,Sat,5,3,2,3,5,5,6,6,6,6,5,6,6,6,3,3,3,3
+Alex Kahn   ,Raleigh 3,Sat,4,4,3,4,4,5,4,6,5,5,2,3,5,2,7,4,5,4
+Jerry Owens ,Raleigh 3,Sat,4,2,4,4,2,7,3,2,5,4,4,6,5,3,6,3,4,3
+Leon Woods  ,Raleigh 3,Sat,2,3,5,2,3,3,2,5,5,4,5,6,3,5,4,2,6,3
+Phil Mickey ,Raleigh 3,Sat,3,4,4,5,3,3,3,6,3,3,2,5,3,3,7,2,4,6
+Arnie Ponds ,Raleigh 3,Sat,3,3,6,3,6,6,2,6,2,3,4,3,4,5,6,5,3,6
+Rory Elroy  ,Raleigh 3,Sat,3,5,6,4,6,3,6,5,6,6,4,5,5,6,4,6,5,2
+Jason Night ,Raleigh 3,Sat,2,5,4,6,2,4,2,3,4,4,2,3,4,4,7,3,2,4
+Dusty Johns ,Raleigh 3,Sat,5,4,5,6,5,3,2,6,2,6,4,6,6,4,7,6,3,3
+Lee Trevor  ,Raleigh 3,Sat,2,5,2,4,5,7,2,2,4,4,5,5,6,3,6,3,3,3
+Jose Garcia ,Raleigh 3,Sat,3,4,2,5,5,3,5,3,6,6,3,5,6,3,5,2,6,3
+Andy Palmer ,Raleigh 3,Sat,3,5,3,3,6,4,2,5,6,3,2,6,4,2,6,2,3,2
+Sam Smith   ,Raleigh 3,Sat,4,3,6,2,5,7,4,6,4,2,5,2,4,3,6,6,4,3
+Joe Watson  ,Raleigh 3,Sat,5,3,5,4,2,3,3,2,3,2,2,4,5,3,3,6,2,2
+Tom Watts   ,Raleigh 3,Sat,2,4,6,4,6,6,6,2,3,2,4,6,4,2,5,3,5,4
+Dick Blend  ,Raleigh 3,Sun,4,4,5,2,2,3,2,2,2,3,3,6,2,2,3,6,4,2
+Alex Kahn   ,Raleigh 3,Sun,4,3,3,4,2,5,6,5,2,2,4,6,4,6,4,4,2,5
+Jerry Owens ,Raleigh 3,Sun,2,4,5,6,4,7,4,3,6,2,5,5,6,4,5,2,3,4
+Leon Woods  ,Raleigh 3,Sun,4,4,2,3,2,6,4,5,2,4,5,3,3,3,4,6,4,4
+Phil Mickey ,Raleigh 3,Sun,4,3,6,3,2,6,2,3,4,5,3,3,5,2,4,6,5,4
+Arnie Ponds ,Raleigh 3,Sun,6,4,3,5,5,4,6,4,4,2,4,3,4,6,7,2,2,6
+Rory Elroy  ,Raleigh 3,Sun,3,5,4,6,2,6,6,6,3,4,5,5,2,5,4,6,3,2
+Jason Night ,Raleigh 3,Sun,4,2,4,2,5,6,6,4,4,3,3,6,2,6,5,6,4,4
+Dusty Johns ,Raleigh 3,Sun,4,4,4,3,4,4,2,5,2,5,5,5,5,2,7,4,6,6
+Lee Trevor  ,Raleigh 3,Sun,4,5,4,6,6,5,6,6,4,2,2,2,2,6,5,4,5,6
+Jose Garcia ,Raleigh 3,Sun,3,4,4,3,2,3,4,6,4,3,5,4,3,2,4,6,3,4
+Andy Palmer ,Raleigh 3,Sun,6,3,6,4,6,6,6,3,2,6,4,6,5,2,7,6,2,6
+Sam Smith   ,Raleigh 3,Sun,4,2,2,5,4,4,4,2,3,3,2,5,2,5,3,6,2,2
+Joe Watson  ,Raleigh 3,Sun,4,3,2,4,5,3,6,2,3,5,2,4,6,4,3,5,3,5
+Tom Watts   ,Raleigh 3,Sun,4,4,4,6,6,4,2,5,2,5,4,5,6,3,7,5,5,4
+David Horse ,WTCC 1,Fri,4,6,3,6,2,6,5,2,4,4,5,3,5,4,3,7,6,5  
+James Hand  ,WTCC 1,Fri,5,5,2,4,4,5,4,4,4,2,2,5,2,3,5,3,4,5 
+Jack Nickels,WTCC 1,Fri,3,3,3,3,3,2,5,5,2,3,4,4,3,4,2,7,2,2 
+Tim Hurst   ,WTCC 1,Fri,5,4,2,4,4,2,6,3,6,4,2,4,5,6,2,3,6,6 
+Greg Bond   ,WTCC 1,Fri,6,4,4,2,3,5,7,2,5,2,3,2,2,3,3,7,6,4 
+Ricky Walker,WTCC 1,Fri,2,3,5,2,6,5,3,3,4,5,2,5,5,2,4,6,3,3 
+Jacob Fowler,WTCC 1,Fri,4,2,4,3,3,3,3,2,4,5,3,5,4,5,3,6,5,5 
+Jonah Vegas ,WTCC 1,Fri,3,5,3,4,3,2,5,2,3,5,5,3,5,5,4,5,5,4 
+Kevin Nay   ,WTCC 1,Fri,3,2,5,6,2,4,7,6,5,4,5,3,4,5,2,6,2,3 
+Scott Kelly ,WTCC 1,Fri,3,2,4,4,3,4,3,2,4,4,6,3,5,2,2,5,5,6 
+Luke Jones  ,WTCC 1,Fri,2,4,2,3,3,4,7,5,3,4,2,5,2,5,5,7,5,2 
+Sean Lard   ,WTCC 1,Fri,5,3,5,6,5,2,6,3,2,5,3,3,6,6,6,4,3,4 
+Tony Fiend  ,WTCC 1,Fri,5,2,5,6,3,2,6,3,6,4,6,4,5,3,6,4,4,4 
+Bob Stripe  ,WTCC 1,Fri,6,6,2,3,4,5,6,3,4,6,6,2,5,2,3,3,5,3 
+Matt Lust   ,WTCC 1,Fri,3,5,3,2,2,4,3,2,5,5,5,2,6,3,2,7,2,2 
+David Horse ,WTCC 1,Sat,3,3,3,5,4,5,5,4,4,2,3,2,6,6,3,6,2,4 
+James Hand  ,WTCC 1,Sat,5,2,3,5,5,4,3,5,4,3,6,5,5,2,2,3,6,6 
+Jack Nickels,WTCC 1,Sat,5,2,3,5,4,5,3,3,4,3,5,4,5,6,5,4,6,3 
+Tim Hurst   ,WTCC 1,Sat,2,2,5,3,4,6,3,3,3,6,5,3,5,5,4,5,5,2 
+Greg Bond   ,WTCC 1,Sat,4,5,2,5,3,4,3,3,3,2,4,4,5,4,5,4,4,5 
+Ricky Walker,WTCC 1,Sat,6,4,5,3,4,2,4,4,3,6,5,2,2,6,5,6,5,3 
+Jacob Fowler,WTCC 1,Sat,3,3,5,5,6,2,3,6,5,2,4,2,3,2,2,6,6,2 
+Jonah Vegas ,WTCC 1,Sat,3,3,4,2,6,6,6,2,4,4,5,2,5,2,2,7,2,4 
+Kevin Nay   ,WTCC 1,Sat,2,6,2,4,4,5,5,3,2,6,3,2,4,3,3,5,3,6 
+Scott Kelly ,WTCC 1,Sat,5,2,3,2,2,4,4,5,2,5,5,2,2,2,4,3,2,6 
+Luke Jones  ,WTCC 1,Sat,3,5,4,6,5,6,7,3,2,6,4,5,3,2,4,4,2,6 
+Sean Lard   ,WTCC 1,Sat,2,6,5,5,6,4,3,5,3,3,5,5,6,3,5,4,4,3 
+Tony Fiend  ,WTCC 1,Sat,5,2,3,4,2,5,4,6,6,2,6,5,6,2,2,5,6,2 
+Bob Stripe  ,WTCC 1,Sat,3,2,5,3,6,6,7,3,4,5,5,3,5,3,4,3,6,6 
+Matt Lust   ,WTCC 1,Sat,5,3,3,2,2,6,3,3,3,2,6,3,6,2,3,4,2,6 
+David Horse ,WTCC 1,Sun,6,5,4,2,5,3,7,4,2,4,6,3,2,4,4,3,2,4
+James Hand  ,WTCC 1,Sun,4,5,2,6,2,5,5,3,5,3,2,3,2,4,4,6,5,5 
+Jack Nickels,WTCC 1,Sun,4,3,5,4,6,2,3,6,5,6,5,4,6,5,5,5,3,2 
+Tim Hurst   ,WTCC 1,Sun,3,5,5,2,4,6,4,4,5,2,6,3,3,2,6,6,4,2
+Greg Bond   ,WTCC 1,Sun,4,5,5,2,2,3,5,2,4,6,3,2,5,5,2,4,2,2 
+Ricky Walker,WTCC 1,Sun,6,5,4,6,3,4,5,4,5,6,6,3,2,6,2,3,3,5 
+Jacob Fowler,WTCC 1,Sun,2,4,5,5,2,5,4,2,2,6,2,4,5,2,2,7,4,2
+Jonah Vegas ,WTCC 1,Sun,2,3,2,4,4,2,7,6,6,3,5,5,3,5,6,5,3,4 
+Kevin Nay   ,WTCC 1,Sun,2,5,3,3,2,3,7,2,6,2,2,2,3,4,4,7,4,4 
+Scott Kelly ,WTCC 1,Sun,5,2,3,5,2,5,5,2,6,5,4,5,2,4,6,5,2,4
+Luke Jones  ,WTCC 1,Sun,5,5,5,2,2,6,3,2,3,6,3,3,3,5,4,6,6,2 
+Sean Lard   ,WTCC 1,Sun,5,4,2,6,3,3,7,3,5,3,3,2,6,5,3,6,3,5 
+Tony Fiend  ,WTCC 1,Sun,4,6,4,6,4,3,6,3,4,5,4,5,4,4,2,7,3,2
+Bob Stripe  ,WTCC 1,Sun,2,2,3,4,3,3,4,4,6,6,3,5,3,5,4,3,4,4 
+Matt Lust   ,WTCC 1,Sun,2,3,3,5,3,6,5,5,2,6,4,2,5,2,4,4,6,3 
+Tony Fiend  ,WTCC 2,Sat,6,6,4,6,2,3,3,2,3,4,3,4,3,2,4,7,2,2 
+Bob Stripe  ,WTCC 2,Sat,3,2,3,5,6,4,6,2,6,6,4,2,2,5,6,3,4,2 
+Matt Lust   ,WTCC 2,Sat,2,4,5,4,3,3,5,5,3,2,4,5,3,2,3,7,5,2 
+Dick Blend  ,WTCC 2,Sat,2,2,3,5,5,5,7,3,5,5,5,4,2,5,5,3,4,3 
+Alex Kahn   ,WTCC 2,Sat,3,6,4,5,6,4,7,6,6,5,6,2,6,3,5,5,4,3 
+Jerry Owens ,WTCC 2,Sat,2,4,3,6,6,3,4,2,2,2,3,4,2,3,2,6,5,6 
+Leon Woods  ,WTCC 2,Sat,5,6,5,3,5,3,4,5,2,5,4,4,5,3,6,5,2,6 
+Phil Mickey ,WTCC 2,Sat,6,6,5,2,6,2,3,6,6,4,4,4,3,6,3,3,3,5 
+Arnie Ponds ,WTCC 2,Sat,6,6,2,6,5,2,5,5,4,5,4,3,2,2,2,6,6,3 
+Rory Elroy  ,WTCC 2,Sat,2,3,4,5,4,2,6,5,6,5,3,2,5,4,3,5,4,2 
+Jason Night ,WTCC 2,Sat,2,3,4,3,5,2,3,2,3,3,2,5,3,6,3,7,6,4 
+Dusty Johns ,WTCC 2,Sat,5,6,2,5,4,5,7,4,4,5,6,3,2,2,6,6,2,2 
+Lee Trevor  ,WTCC 2,Sat,6,3,5,3,5,2,5,5,5,2,2,3,4,2,4,4,2,2 
+Jose Garcia ,WTCC 2,Sat,3,3,3,5,3,3,7,3,2,6,2,5,6,4,4,4,6,3 
+Andy Palmer ,WTCC 2,Sat,3,4,2,5,5,3,7,6,2,4,4,2,5,5,2,7,3,5 
+Tony Fiend  ,WTCC 2,Sun,3,3,4,4,4,2,7,4,4,6,5,3,5,2,6,5,5,3
+Bob Stripe  ,WTCC 2,Sun,2,2,2,6,6,6,6,5,3,6,6,4,5,6,4,3,6,4 
+Matt Lust   ,WTCC 2,Sun,2,6,2,6,5,3,4,2,5,5,5,4,2,5,5,4,3,2 
+Dick Blend  ,WTCC 2,Sun,3,6,4,2,6,3,3,5,3,2,5,2,3,5,5,7,4,6
+Alex Kahn   ,WTCC 2,Sun,6,6,2,4,3,4,5,6,6,3,4,2,4,2,3,6,3,5 
+Jerry Owens ,WTCC 2,Sun,2,2,5,5,5,6,5,3,3,5,5,2,2,2,5,4,5,5 
+Leon Woods  ,WTCC 2,Sun,4,5,3,5,3,3,3,3,4,3,4,3,2,5,4,5,3,3
+Phil Mickey ,WTCC 2,Sun,3,5,5,2,2,4,5,6,2,5,5,5,6,3,4,4,6,3 
+Arnie Ponds ,WTCC 2,Sun,2,2,3,4,5,6,5,4,3,5,5,4,6,6,4,4,2,6 
+Rory Elroy  ,WTCC 2,Sun,3,3,2,5,2,4,7,6,2,6,2,3,3,2,6,6,5,6
+Jason Night ,WTCC 2,Sun,5,3,5,5,4,2,3,3,2,2,2,3,2,2,2,6,4,6 
+Dusty Johns ,WTCC 2,Sun,2,5,4,6,2,3,4,3,6,5,2,5,2,5,2,5,2,4 
+Lee Trevor  ,WTCC 2,Sun,3,5,2,3,5,3,6,4,6,5,5,3,6,6,4,5,4,5
+Jose Garcia ,WTCC 2,Sun,5,3,2,3,4,2,4,3,3,4,6,3,3,4,3,4,4,6 
+Andy Palmer ,WTCC 2,Sun,4,4,5,4,4,3,4,6,6,3,5,2,4,2,3,4,5,2 
+Sam Smith   ,WTCC 3,Thu,4,3,4,5,5,3,5,4,5,2,3,4,5,6,6,5,4,5 
+Joe Watson  ,WTCC 3,Thu,3,5,3,5,5,2,5,5,4,4,6,2,5,3,2,6,2,2 
+Tom Watts   ,WTCC 3,Thu,6,2,3,6,6,6,4,6,4,3,6,3,3,5,5,6,5,6 
+David Horse ,WTCC 3,Thu,2,4,3,4,6,4,3,3,6,2,4,5,3,3,6,6,5,4 
+James Hand  ,WTCC 3,Thu,6,4,2,4,5,3,5,4,5,5,3,3,2,2,6,6,4,6 
+Jack Nickels,WTCC 3,Thu,4,4,4,4,6,5,7,6,4,5,2,4,5,5,3,4,4,3  
+Tim Hurst   ,WTCC 3,Thu,6,3,4,6,6,6,7,3,5,3,4,2,5,3,6,6,3,2 
+Greg Bond   ,WTCC 3,Thu,4,6,5,6,5,3,3,2,6,5,6,2,4,3,5,3,4,4 
+Ricky Walker,WTCC 3,Thu,6,5,3,6,6,5,5,6,6,3,4,3,2,4,3,4,2,2  
+Jacob Fowler,WTCC 3,Thu,5,3,2,4,5,5,7,2,2,3,5,5,6,6,5,7,2,3  
+Jonah Vegas ,WTCC 3,Thu,2,2,3,3,5,3,7,4,2,3,2,4,6,6,6,4,2,5 
+Kevin Nay   ,WTCC 3,Thu,6,6,3,5,6,3,6,2,4,3,2,2,4,6,2,6,6,4 
+Scott Kelly ,WTCC 3,Thu,6,4,4,2,4,6,3,3,3,2,3,4,6,2,3,4,5,3 
+Luke Jones  ,WTCC 3,Thu,2,5,4,5,4,6,4,5,5,4,2,3,6,2,4,6,6,5 
+Sean Lard   ,WTCC 3,Thu,2,6,2,5,4,4,5,5,2,3,5,4,3,4,3,6,2,3 
+Sam Smith   ,WTCC 3,Fri,6,6,5,6,4,4,4,3,4,4,5,5,4,5,5,6,3,6    
+Joe Watson  ,WTCC 3,Fri,4,5,2,2,4,6,6,3,5,4,6,5,5,3,6,5,5,4 
+Tom Watts   ,WTCC 3,Fri,2,4,2,3,2,2,6,4,2,4,6,4,5,2,6,6,2,4 
+David Horse ,WTCC 3,Fri,3,6,5,6,3,4,7,2,4,3,3,3,4,3,5,6,4,2 
+James Hand  ,WTCC 3,Fri,2,4,2,2,3,2,7,3,3,6,5,2,6,5,2,4,5,5 
+Jack Nickels,WTCC 3,Fri,4,5,4,4,6,6,5,4,4,6,6,2,4,2,5,3,4,4  
+Tim Hurst   ,WTCC 3,Fri,4,5,5,5,2,4,4,3,4,5,2,5,3,6,2,4,2,5 
+Greg Bond   ,WTCC 3,Fri,3,3,5,2,4,6,6,5,5,4,4,3,4,6,4,4,5,4 
+Ricky Walker,WTCC 3,Fri,2,3,2,6,2,5,6,4,4,2,6,4,6,5,2,7,3,2  
+Jacob Fowler,WTCC 3,Fri,3,5,5,5,3,3,5,3,5,3,5,5,2,4,2,5,5,4  
+Jonah Vegas ,WTCC 3,Fri,3,4,2,5,5,3,4,4,5,4,6,5,4,6,3,6,3,2 
+Kevin Nay   ,WTCC 3,Fri,2,5,2,4,2,3,4,3,3,2,5,3,4,4,3,7,4,3 
+Scott Kelly ,WTCC 3,Fri,3,3,3,4,6,3,5,4,3,4,2,3,3,4,5,4,3,6 
+Luke Jones  ,WTCC 3,Fri,6,2,4,2,2,2,5,2,5,5,3,4,5,3,4,6,2,5 
+Sean Lard   ,WTCC 3,Fri,2,5,2,5,3,5,6,4,5,2,4,2,4,2,2,5,4,2 
+Sam Smith   ,WTCC 3,Sat,4,3,5,5,6,6,6,6,6,5,2,3,2,5,5,5,6,5 
+Joe Watson  ,WTCC 3,Sat,5,4,3,3,3,2,7,3,5,6,5,5,5,2,4,5,5,6 
+Tom Watts   ,WTCC 3,Sat,4,6,2,4,6,4,3,5,4,2,2,3,2,4,4,6,4,6 
+David Horse ,WTCC 3,Sat,3,5,5,5,4,4,3,2,4,2,2,4,6,4,2,3,2,5 
+James Hand  ,WTCC 3,Sat,4,4,4,3,3,5,6,2,2,3,6,4,4,2,5,4,4,6 
+Jack Nickels,WTCC 3,Sat,6,3,3,3,6,6,4,6,5,3,4,5,2,3,3,6,2,2 
+Tim Hurst   ,WTCC 3,Sat,5,6,3,4,4,5,5,6,4,4,6,5,4,2,4,5,2,3 
+Greg Bond   ,WTCC 3,Sat,4,2,4,3,4,3,4,3,3,5,3,3,3,5,4,4,4,3 
+Ricky Walker,WTCC 3,Sat,3,2,3,2,2,6,3,5,2,6,5,3,6,2,2,5,2,2 
+Jacob Fowler,WTCC 3,Sat,6,6,5,2,6,2,6,5,3,4,6,4,6,3,5,3,4,6 
+Jonah Vegas ,WTCC 3,Sat,3,5,3,4,3,3,6,5,3,5,6,4,6,2,3,3,4,5 
+Kevin Nay   ,WTCC 3,Sat,5,5,5,2,4,4,6,4,6,2,3,2,2,2,5,3,5,3 
+Scott Kelly ,WTCC 3,Sat,4,5,3,4,5,6,6,4,4,5,2,5,2,4,6,5,4,5 
+Luke Jones  ,WTCC 3,Sat,4,6,3,2,2,5,5,5,5,2,3,5,6,3,5,3,6,2 
+Sean Lard   ,WTCC 3,Sat,5,4,3,4,3,3,6,3,2,3,3,4,3,5,5,7,2,3 
+Sam Smith   ,WTCC 3,Sun,4,4,4,5,5,3,4,3,5,4,4,2,3,3,5,3,5,5
+Joe Watson  ,WTCC 3,Sun,4,3,5,6,6,6,6,5,5,3,5,4,3,4,3,6,5,6 
+Tom Watts   ,WTCC 3,Sun,6,2,5,6,6,4,4,5,6,2,3,2,6,3,5,5,4,6 
+David Horse ,WTCC 3,Sun,4,6,4,3,6,5,5,6,5,4,2,4,2,4,6,4,5,4
+James Hand  ,WTCC 3,Sun,2,3,3,5,3,4,3,5,6,5,4,2,2,5,5,7,4,4 
+Jack Nickels,WTCC 3,Sun,3,2,4,2,2,2,5,2,4,3,5,5,6,3,4,6,4,6 
+Tim Hurst   ,WTCC 3,Sun,2,5,4,4,2,4,7,4,3,4,6,5,5,3,5,7,4,4
+Greg Bond   ,WTCC 3,Sun,5,2,3,6,2,5,4,6,2,2,6,2,3,4,5,5,4,6 
+Ricky Walker,WTCC 3,Sun,2,6,5,4,6,6,6,3,6,6,4,4,4,4,5,7,2,4 
+Jacob Fowler,WTCC 3,Sun,3,5,5,3,6,5,3,4,3,4,5,4,2,4,2,3,2,2
+Jonah Vegas ,WTCC 3,Sun,5,2,2,6,5,5,3,2,4,2,4,4,2,6,5,4,3,4 
+Kevin Nay   ,WTCC 3,Sun,6,3,3,2,5,4,7,6,5,5,2,3,6,3,5,6,3,6 
+Scott Kelly ,WTCC 3,Sun,4,5,4,2,2,6,4,5,5,5,2,2,4,4,4,3,6,2
+Luke Jones  ,WTCC 3,Sun,5,4,4,2,6,3,5,5,6,4,3,3,3,6,6,3,5,5 
+Sean Lard   ,WTCC 3,Sun,5,5,5,3,5,4,3,3,2,4,5,2,6,6,3,6,5,3 
+Scott Kelly ,Garner 1,Thu,4,3,6,4,7,2,2,3,2,6,3,6,7,3,5,5,3,6
+Luke Jones  ,Garner 1,Thu,5,3,6,6,4,2,6,3,2,4,4,6,5,3,3,2,3,6
+Sean Lard   ,Garner 1,Thu,4,3,4,4,4,3,5,2,3,5,2,6,6,6,5,5,2,6
+Tony Fiend  ,Garner 1,Thu,3,5,4,3,7,4,4,5,2,6,5,6,6,2,3,2,4,2
+Bob Stripe  ,Garner 1,Thu,2,5,5,6,7,3,5,6,2,2,3,6,6,5,6,6,2,4
+Matt Lust   ,Garner 1,Thu,5,5,4,4,3,3,6,2,4,6,6,6,6,2,5,4,4,5
+Dick Blend  ,Garner 1,Thu,4,3,4,2,7,5,6,3,3,4,4,5,5,2,6,2,2,6
+Alex Kahn   ,Garner 1,Thu,3,2,2,4,3,3,2,3,3,5,6,5,3,6,5,2,4,4
+Jerry Owens ,Garner 1,Thu,3,2,3,4,3,2,4,4,5,6,4,5,5,5,3,3,4,2
+Leon Woods  ,Garner 1,Thu,2,2,2,4,5,2,3,4,2,5,4,2,6,6,3,2,4,5
+Phil Mickey ,Garner 1,Thu,6,5,3,2,3,2,6,4,5,6,2,6,5,4,6,2,4,3
+Arnie Ponds ,Garner 1,Thu,6,6,2,6,3,2,6,2,4,6,2,2,6,4,2,3,5,4
+Rory Elroy  ,Garner 1,Thu,2,6,4,5,4,4,4,3,4,3,2,2,5,2,6,5,3,4
+Jason Night ,Garner 1,Thu,3,3,3,3,5,2,2,4,4,5,4,3,7,2,5,4,5,4
+Dusty Johns ,Garner 1,Thu,2,4,2,4,6,4,6,4,4,4,5,5,5,6,5,4,3,4
+Scott Kelly ,Garner 1,Fri,5,4,5,5,4,6,4,6,3,5,3,6,3,3,4,4,3,4
+Luke Jones  ,Garner 1,Fri,3,5,2,2,6,6,6,6,5,5,5,4,7,6,6,4,3,5
+Sean Lard   ,Garner 1,Fri,5,4,6,5,3,5,3,6,3,6,6,3,4,6,6,6,2,3
+Tony Fiend  ,Garner 1,Fri,3,5,5,3,4,4,3,5,5,5,5,2,6,3,2,6,4,2
+Bob Stripe  ,Garner 1,Fri,3,3,6,5,5,4,2,3,4,6,6,6,5,6,2,4,5,6
+Matt Lust   ,Garner 1,Fri,6,3,3,6,7,6,5,3,4,6,5,3,6,2,3,5,5,3
+Dick Blend  ,Garner 1,Fri,3,6,5,4,6,4,6,5,5,4,5,6,6,5,4,5,3,6
+Alex Kahn   ,Garner 1,Fri,6,4,6,2,6,3,5,2,2,2,4,3,5,2,3,5,5,5
+Jerry Owens ,Garner 1,Fri,4,3,3,4,3,4,6,2,2,4,5,4,4,2,2,5,3,5
+Leon Woods  ,Garner 1,Fri,4,4,2,5,5,5,3,3,4,2,3,3,7,6,5,3,4,6
+Phil Mickey ,Garner 1,Fri,3,5,3,3,6,6,5,3,4,3,3,3,5,2,5,2,3,4
+Arnie Ponds ,Garner 1,Fri,2,4,2,2,6,4,6,2,4,4,2,3,3,4,3,3,3,6
+Rory Elroy  ,Garner 1,Fri,5,2,6,2,7,4,2,3,3,3,2,2,5,2,4,4,2,5
+Jason Night ,Garner 1,Fri,4,2,5,6,7,2,2,6,3,3,3,4,6,5,3,2,3,3
+Dusty Johns ,Garner 1,Fri,3,5,2,5,4,5,6,5,4,4,6,3,7,5,4,2,3,3
+Scott Kelly ,Garner 1,Sat,2,6,6,2,4,5,2,5,5,3,2,2,5,6,6,4,5,3
+Luke Jones  ,Garner 1,Sat,2,2,2,6,7,4,2,3,5,4,3,5,3,4,6,5,5,5
+Sean Lard   ,Garner 1,Sat,3,4,4,5,4,2,5,3,2,2,2,3,4,2,6,3,2,6
+Tony Fiend  ,Garner 1,Sat,2,2,6,3,6,3,5,6,2,3,4,3,4,6,4,3,4,3
+Bob Stripe  ,Garner 1,Sat,6,3,3,4,4,6,4,2,4,4,6,6,5,6,2,2,2,5
+Matt Lust   ,Garner 1,Sat,6,6,6,4,4,4,2,3,5,4,2,4,5,4,6,5,2,4
+Dick Blend  ,Garner 1,Sat,2,6,2,4,4,4,4,5,2,2,6,5,6,6,6,4,4,4
+Alex Kahn   ,Garner 1,Sat,2,3,6,3,3,5,5,5,3,5,3,3,4,5,5,2,5,3
+Jerry Owens ,Garner 1,Sat,5,2,5,5,3,5,4,3,5,4,5,4,3,3,3,6,4,6
+Leon Woods  ,Garner 1,Sat,5,4,4,4,6,5,6,2,5,5,5,2,7,4,5,5,4,3
+Phil Mickey ,Garner 1,Sat,4,2,2,4,3,4,2,6,3,5,2,4,5,4,3,6,2,4
+Arnie Ponds ,Garner 1,Sat,6,4,4,3,3,2,4,2,3,5,5,2,5,4,6,3,4,4
+Rory Elroy  ,Garner 1,Sat,4,5,5,4,7,6,4,5,2,4,5,2,4,2,5,4,4,3
+Jason Night ,Garner 1,Sat,2,3,2,2,3,5,3,2,5,4,4,3,7,6,2,5,3,4
+Dusty Johns ,Garner 1,Sat,5,4,6,4,3,2,5,3,2,6,2,2,5,3,3,6,2,6
+Scott Kelly ,Garner 1,Sun,4,6,5,5,3,6,5,6,2,3,4,6,7,5,3,5,2,4
+Luke Jones  ,Garner 1,Sun,6,3,6,5,5,4,3,6,3,2,4,5,6,6,3,4,2,4
+Sean Lard   ,Garner 1,Sun,3,4,3,4,4,6,6,5,5,3,5,4,4,3,5,6,3,3
+Tony Fiend  ,Garner 1,Sun,3,3,5,6,5,2,2,6,5,2,5,2,5,6,2,2,4,4
+Bob Stripe  ,Garner 1,Sun,6,6,4,2,4,6,2,5,2,2,5,4,7,5,3,6,2,5
+Matt Lust   ,Garner 1,Sun,3,5,5,3,5,3,5,4,3,3,2,6,7,5,5,4,2,5
+Dick Blend  ,Garner 1,Sun,3,6,4,2,3,5,2,5,5,3,3,3,6,2,3,5,4,2
+Alex Kahn   ,Garner 1,Sun,5,3,5,4,7,4,4,4,5,3,3,5,7,2,5,3,2,5
+Jerry Owens ,Garner 1,Sun,3,5,4,3,3,2,2,6,3,2,6,2,4,2,6,2,3,4
+Leon Woods  ,Garner 1,Sun,2,6,3,3,7,4,2,5,3,6,4,3,4,2,4,4,3,2
+Phil Mickey ,Garner 1,Sun,3,4,4,2,3,5,4,3,5,4,3,3,4,4,5,6,4,2
+Arnie Ponds ,Garner 1,Sun,2,5,2,4,5,4,4,5,2,3,2,6,7,6,4,6,3,4
+Rory Elroy  ,Garner 1,Sun,6,5,6,3,5,5,2,5,3,3,6,5,7,5,4,4,2,6
+Jason Night ,Garner 1,Sun,5,3,4,3,5,6,3,2,2,4,2,5,5,2,3,5,4,2
+Dusty Johns ,Garner 1,Sun,5,6,6,4,7,3,6,3,3,5,6,3,4,2,2,4,3,4
+Lee Trevor  ,Garner 2,Fri,6,2,6,5,4,2,2,3,5,3,2,6,5,3,2,4,3,4
+Jose Garcia ,Garner 2,Fri,6,2,2,3,3,4,6,6,3,5,4,6,7,6,2,4,5,3
+Andy Palmer ,Garner 2,Fri,4,5,2,2,6,2,4,2,5,2,2,3,7,3,6,4,2,2
+Sam Smith   ,Garner 2,Fri,2,6,5,6,4,2,5,3,3,2,2,4,3,6,3,3,5,5
+Joe Watson  ,Garner 2,Fri,3,2,4,2,7,2,3,3,4,4,6,3,5,2,6,3,2,2
+Tom Watts   ,Garner 2,Fri,3,6,3,4,7,6,3,2,4,2,6,4,4,3,2,6,2,6
+David Horse ,Garner 2,Fri,3,3,3,4,4,6,3,3,4,2,4,3,5,5,5,4,4,3
+James Hand  ,Garner 2,Fri,3,3,3,6,4,5,3,2,5,3,6,5,7,3,2,6,3,5
+Jack Nickels,Garner 2,Fri,4,3,2,5,4,4,5,3,2,2,6,6,7,6,3,4,4,4
+Tim Hurst   ,Garner 2,Fri,3,5,3,2,5,5,4,4,2,3,5,5,4,5,3,2,2,2
+Greg Bond   ,Garner 2,Fri,6,4,6,6,5,2,4,3,4,3,2,3,6,6,4,4,2,2
+Ricky Walker,Garner 2,Fri,5,2,4,2,6,5,2,5,4,6,3,4,7,6,6,6,2,4
+Jacob Fowler,Garner 2,Fri,5,4,6,2,3,2,4,2,2,5,5,3,6,2,4,5,5,4
+Jonah Vegas ,Garner 2,Fri,5,5,6,5,4,6,3,3,2,4,4,4,4,4,4,2,2,3
+Kevin Nay   ,Garner 2,Fri,5,4,5,5,7,6,3,5,4,2,5,3,7,4,5,4,4,6
+Lee Trevor  ,Garner 2,Sat,5,4,3,3,7,4,5,6,5,5,4,3,4,2,3,5,4,6
+Jose Garcia ,Garner 2,Sat,2,5,5,5,6,4,5,4,3,5,2,5,3,4,3,5,5,4
+Andy Palmer ,Garner 2,Sat,5,2,6,6,5,2,2,3,3,2,3,3,4,2,6,5,4,5
+Sam Smith   ,Garner 2,Sat,4,2,5,4,7,4,6,6,2,6,3,6,5,3,5,5,5,3
+Joe Watson  ,Garner 2,Sat,2,2,6,6,6,5,5,3,5,4,4,3,6,3,6,4,3,6
+Tom Watts   ,Garner 2,Sat,4,4,2,3,4,2,4,2,3,3,6,5,7,3,2,4,4,6
+David Horse ,Garner 2,Sat,6,2,2,6,6,2,4,4,5,4,2,2,4,5,5,6,3,4
+James Hand  ,Garner 2,Sat,2,3,2,3,7,6,5,6,3,6,2,6,4,3,2,4,2,2
+Jack Nickels,Garner 2,Sat,3,4,4,5,6,4,2,6,2,5,3,6,7,3,3,2,2,4
+Tim Hurst   ,Garner 2,Sat,3,6,4,6,4,2,3,5,4,3,5,3,6,6,4,6,5,2
+Greg Bond   ,Garner 2,Sat,2,2,4,4,3,5,3,6,3,3,2,3,6,2,2,4,2,5
+Ricky Walker,Garner 2,Sat,6,2,6,5,7,6,4,6,3,4,4,5,6,4,6,6,2,3
+Jacob Fowler,Garner 2,Sat,3,2,6,2,4,2,2,3,3,2,5,2,4,2,2,3,2,5
+Jonah Vegas ,Garner 2,Sat,5,4,3,4,5,4,6,5,2,4,2,6,4,2,6,5,4,3
+Kevin Nay   ,Garner 2,Sat,4,6,6,3,4,6,2,6,2,2,4,4,4,3,2,6,4,3
+Lee Trevor  ,Garner 2,Sun,6,4,4,4,5,5,5,2,4,6,6,4,3,5,3,5,3,2
+Jose Garcia ,Garner 2,Sun,4,2,4,5,7,3,5,5,5,5,5,3,7,2,5,6,5,6
+Andy Palmer ,Garner 2,Sun,4,3,6,3,3,6,2,6,3,4,6,4,3,6,3,2,2,5
+Sam Smith   ,Garner 2,Sun,2,4,4,5,4,6,6,5,4,6,2,6,4,5,2,6,2,3
+Joe Watson  ,Garner 2,Sun,5,6,6,5,6,4,2,4,4,2,2,6,3,6,6,3,2,6
+Tom Watts   ,Garner 2,Sun,5,2,3,4,7,5,4,5,4,3,5,3,6,3,3,3,5,2
+David Horse ,Garner 2,Sun,3,3,3,2,4,6,2,5,3,2,2,5,4,5,6,4,3,3
+James Hand  ,Garner 2,Sun,5,4,6,5,7,6,4,5,5,2,5,4,5,3,6,4,5,2
+Jack Nickels,Garner 2,Sun,4,3,3,6,3,2,6,4,5,2,4,4,7,3,3,4,5,6
+Tim Hurst   ,Garner 2,Sun,6,2,3,6,5,3,4,4,3,5,4,2,3,6,2,3,2,6
+Greg Bond   ,Garner 2,Sun,2,5,6,2,4,3,6,2,5,4,2,5,6,3,6,5,2,6
+Ricky Walker,Garner 2,Sun,3,2,5,3,3,6,3,2,2,6,4,6,5,4,4,2,2,5
+Jacob Fowler,Garner 2,Sun,6,4,2,2,7,6,6,6,4,6,2,5,4,3,3,3,4,6
+Jonah Vegas ,Garner 2,Sun,4,3,3,4,7,6,4,6,4,3,3,4,6,2,4,4,5,3
+Kevin Nay   ,Garner 2,Sun,2,4,2,6,4,2,6,3,4,6,4,6,4,5,6,2,5,3
+Jacob Fowler,Garner 3,Sat,5,4,6,5,7,2,2,6,4,6,5,2,5,5,4,2,5,3
+Jonah Vegas ,Garner 3,Sat,6,4,5,6,7,5,5,2,4,5,5,2,4,3,3,5,5,4
+Kevin Nay   ,Garner 3,Sat,6,4,2,4,6,5,2,3,4,3,4,6,6,3,5,2,3,2
+Scott Kelly ,Garner 3,Sat,6,3,3,6,7,6,4,3,2,4,5,6,3,2,3,5,2,5
+Luke Jones  ,Garner 3,Sat,5,2,4,2,6,6,5,6,5,5,6,4,4,3,5,6,2,3
+Sean Lard   ,Garner 3,Sat,2,5,2,4,7,4,4,3,5,4,4,6,4,3,2,5,5,5
+Tony Fiend  ,Garner 3,Sat,2,6,2,3,5,3,3,3,4,4,2,5,5,4,2,4,2,5
+Bob Stripe  ,Garner 3,Sat,4,3,4,2,5,2,3,3,4,3,6,2,6,6,3,4,2,5
+Matt Lust   ,Garner 3,Sat,5,4,3,6,3,3,4,4,5,6,2,2,3,3,5,2,2,4
+Dick Blend  ,Garner 3,Sat,5,4,3,2,4,5,4,4,3,5,4,3,5,3,3,6,4,2
+Alex Kahn   ,Garner 3,Sat,3,3,5,6,6,2,2,4,4,4,6,5,7,2,4,6,4,5
+Jerry Owens ,Garner 3,Sat,3,4,2,2,5,3,4,4,2,2,5,5,4,3,3,5,4,2
+Leon Woods  ,Garner 3,Sat,6,3,6,4,6,6,5,4,4,5,6,5,7,3,4,5,3,5
+Phil Mickey ,Garner 3,Sat,2,4,6,2,6,6,4,2,2,5,5,3,6,2,5,5,4,2
+Arnie Ponds ,Garner 3,Sat,6,5,4,2,5,3,2,2,4,6,3,4,7,5,5,2,2,4
+Jacob Fowler,Garner 3,Sun,4,5,3,2,7,2,4,2,5,6,2,2,3,6,4,2,5,4
+Jonah Vegas ,Garner 3,Sun,3,6,2,5,7,6,3,3,3,2,3,5,4,4,2,6,4,4
+Kevin Nay   ,Garner 3,Sun,5,4,2,2,5,2,3,2,4,6,4,4,7,6,4,2,5,2
+Scott Kelly ,Garner 3,Sun,3,2,6,2,3,2,2,4,2,4,3,2,6,5,4,2,5,4
+Luke Jones  ,Garner 3,Sun,2,2,4,4,6,2,5,4,4,2,2,2,4,4,3,2,3,6
+Sean Lard   ,Garner 3,Sun,3,5,4,4,6,2,6,6,5,5,6,4,5,4,2,2,2,2
+Tony Fiend  ,Garner 3,Sun,6,4,3,5,7,6,6,4,4,3,5,5,7,5,2,2,5,6
+Bob Stripe  ,Garner 3,Sun,5,4,6,2,3,3,4,5,3,6,4,3,6,5,6,2,4,4
+Matt Lust   ,Garner 3,Sun,5,3,6,4,4,2,4,3,2,3,5,2,4,3,2,3,2,4
+Dick Blend  ,Garner 3,Sun,6,6,6,5,3,6,3,6,3,5,2,5,3,2,4,2,3,5
+Alex Kahn   ,Garner 3,Sun,2,4,4,6,6,4,4,3,5,3,5,2,5,3,2,6,5,5
+Jerry Owens ,Garner 3,Sun,6,3,5,5,4,4,4,2,3,6,2,3,5,3,4,5,5,5
+Leon Woods  ,Garner 3,Sun,6,3,5,5,5,4,4,5,4,4,2,6,4,5,4,2,4,3
+Phil Mickey ,Garner 3,Sun,6,6,2,2,7,6,3,3,4,2,5,4,6,4,4,6,4,3
+Arnie Ponds ,Garner 3,Sun,2,3,2,2,6,2,5,5,5,4,6,3,4,3,4,2,3,6
+Rory Elroy  ,Cary 1,Sat,4,3,3,3,4,2,6,3,3,5,2,3,3,4,5,5,3,5
+Jason Night ,Cary 1,Sat,5,4,3,3,2,3,6,2,2,3,6,6,4,4,4,3,5,3
+Dusty Johns ,Cary 1,Sat,2,6,4,6,2,3,5,4,5,3,4,5,6,5,3,4,6,6
+Lee Trevor  ,Cary 1,Sat,5,6,6,2,2,5,3,4,3,4,6,2,3,2,6,2,5,5
+Jose Garcia ,Cary 1,Sat,3,2,3,3,2,2,5,3,5,6,5,6,5,3,2,5,6,3
+Andy Palmer ,Cary 1,Sat,2,6,6,3,3,5,4,3,3,6,2,5,2,5,6,3,6,2
+Sam Smith   ,Cary 1,Sat,4,3,4,5,4,4,4,3,4,5,4,4,2,4,2,3,6,5
+Joe Watson  ,Cary 1,Sat,5,4,6,3,2,6,6,6,4,4,3,4,2,3,6,6,4,2
+Tom Watts   ,Cary 1,Sat,5,5,6,5,3,3,3,4,3,7,5,3,5,2,2,4,2,6
+David Horse ,Cary 1,Sat,3,5,3,4,2,2,6,4,2,3,4,3,4,5,5,3,3,3
+James Hand  ,Cary 1,Sat,2,3,3,3,4,5,7,4,2,3,6,2,4,2,6,2,5,3
+Jack Nickels,Cary 1,Sat,3,3,2,6,4,2,6,5,2,5,2,3,6,3,3,6,4,4
+Tim Hurst   ,Cary 1,Sat,5,4,2,6,4,4,3,4,6,5,6,3,3,5,2,6,6,5
+Greg Bond   ,Cary 1,Sat,2,3,5,2,3,4,5,2,5,6,5,6,6,4,5,5,3,6
+Ricky Walker,Cary 1,Sat,2,2,6,6,2,3,4,2,4,3,4,2,2,5,4,3,6,3
+Rory Elroy  ,Cary 1,Sun,4,4,3,3,3,4,3,6,5,6,6,4,3,2,5,5,5,4
+Jason Night ,Cary 1,Sun,6,2,5,2,4,4,7,6,4,6,6,5,4,3,3,3,6,4
+Dusty Johns ,Cary 1,Sun,6,3,3,5,4,4,4,3,3,6,3,4,6,2,4,3,5,5
+Lee Trevor  ,Cary 1,Sun,3,2,3,6,3,3,4,4,2,3,5,6,2,2,3,3,3,3
+Jose Garcia ,Cary 1,Sun,4,4,2,3,2,3,3,4,5,6,2,2,6,4,4,3,5,5
+Andy Palmer ,Cary 1,Sun,3,4,6,6,3,2,4,6,6,6,4,2,2,3,4,3,2,5
+Sam Smith   ,Cary 1,Sun,5,2,4,4,4,4,7,4,6,3,3,5,4,4,2,5,3,6
+Joe Watson  ,Cary 1,Sun,4,4,3,4,5,2,5,2,3,7,5,5,6,3,4,4,4,2
+Tom Watts   ,Cary 1,Sun,3,5,3,6,5,4,5,3,6,5,3,3,6,3,6,5,6,6
+David Horse ,Cary 1,Sun,4,3,4,6,2,5,4,5,5,4,4,2,2,2,3,5,6,5
+James Hand  ,Cary 1,Sun,6,2,6,6,4,3,7,2,2,7,4,4,5,5,3,3,6,2
+Jack Nickels,Cary 1,Sun,5,6,3,3,3,6,7,4,6,7,5,6,2,2,5,3,3,2
+Tim Hurst   ,Cary 1,Sun,4,6,4,3,5,3,6,2,6,3,2,6,3,5,6,6,2,4
+Greg Bond   ,Cary 1,Sun,4,2,5,5,5,4,6,2,5,6,5,3,4,2,6,5,6,6
+Ricky Walker,Cary 1,Sun,3,6,4,2,4,5,6,6,5,4,5,6,6,2,2,3,6,2
+Leon Woods  ,Cary 2,Fri,6,3,6,4,3,3,5,3,5,4,4,3,3,4,6,5,6,4
+Phil Mickey ,Cary 2,Fri,5,6,4,4,2,5,5,5,5,3,3,3,5,4,5,3,6,5
+Arnie Ponds ,Cary 2,Fri,3,2,5,3,2,2,3,5,2,7,5,3,5,4,2,3,3,3
+Rory Elroy  ,Cary 2,Fri,2,3,5,6,4,6,3,6,2,4,5,4,6,5,6,5,6,6
+Jason Night ,Cary 2,Fri,4,4,6,2,5,2,3,5,2,4,3,3,4,3,2,2,6,6
+Dusty Johns ,Cary 2,Fri,4,4,6,6,2,6,6,5,3,4,4,3,2,5,2,4,2,5
+Lee Trevor  ,Cary 2,Fri,3,2,2,3,2,4,6,3,4,7,2,4,2,2,5,2,2,6
+Jose Garcia ,Cary 2,Fri,2,3,3,6,5,6,4,3,2,3,3,6,4,3,2,5,5,3
+Tim Hurst   ,Cary 2,Fri,3,4,6,6,3,6,3,3,4,5,6,5,4,4,3,3,2,5
+Greg Bond   ,Cary 2,Fri,6,4,4,3,4,2,3,4,3,4,4,5,4,3,4,4,5,4
+Ricky Walker,Cary 2,Fri,6,3,3,6,3,2,6,4,5,5,4,4,5,5,3,5,5,6
+Jacob Fowler,Cary 2,Fri,3,2,6,2,3,6,6,3,5,6,3,6,4,4,5,2,5,4
+Jonah Vegas ,Cary 2,Fri,5,3,5,6,4,3,3,6,4,7,3,6,6,3,6,6,5,5
+Kevin Nay   ,Cary 2,Fri,6,3,5,6,2,2,6,5,5,5,5,6,3,5,2,6,6,6
+Scott Kelly ,Cary 2,Fri,6,6,3,4,3,6,5,3,3,7,3,2,4,4,4,5,2,3
+Leon Woods  ,Cary 2,Sat,4,2,5,4,3,6,3,4,5,3,4,5,6,4,5,2,3,3
+Phil Mickey ,Cary 2,Sat,3,5,5,4,5,6,5,4,5,3,2,2,4,2,3,4,5,6
+Arnie Ponds ,Cary 2,Sat,3,5,5,2,3,3,7,2,3,3,4,5,5,5,6,5,2,5
+Rory Elroy  ,Cary 2,Sat,3,4,2,5,5,2,6,2,5,3,6,6,5,2,2,3,5,6
+Jason Night ,Cary 2,Sat,3,6,2,2,3,2,3,2,4,5,4,2,5,4,3,3,6,6
+Dusty Johns ,Cary 2,Sat,5,3,6,6,2,4,3,2,2,7,4,3,4,3,4,6,5,4
+Lee Trevor  ,Cary 2,Sat,5,6,4,2,5,3,7,6,4,5,4,6,6,2,3,6,2,6
+Jose Garcia ,Cary 2,Sat,5,4,2,2,4,5,3,5,3,7,6,2,3,5,6,2,2,2
+Tim Hurst   ,Cary 2,Sat,6,4,3,4,5,2,5,4,3,5,5,3,3,4,4,3,3,3
+Greg Bond   ,Cary 2,Sat,4,3,4,4,2,3,5,3,6,6,5,3,3,4,6,4,5,3
+Ricky Walker,Cary 2,Sat,3,3,4,5,5,4,4,2,5,4,6,2,4,3,2,3,3,4
+Jacob Fowler,Cary 2,Sat,6,6,4,3,3,4,3,5,5,7,3,2,2,3,6,5,2,6
+Jonah Vegas ,Cary 2,Sat,6,2,2,2,5,2,3,6,3,4,4,4,4,5,3,5,4,2
+Kevin Nay   ,Cary 2,Sat,5,3,2,4,2,3,4,3,2,5,5,4,3,3,4,5,4,4
+Scott Kelly ,Cary 2,Sat,3,6,4,4,3,6,5,5,4,3,3,6,6,5,6,2,6,5
+Leon Woods  ,Cary 2,Sun,2,4,3,2,2,5,4,2,2,3,4,3,2,5,2,3,3,4
+Phil Mickey ,Cary 2,Sun,6,2,4,5,3,3,4,5,6,3,2,3,5,3,5,3,3,3
+Arnie Ponds ,Cary 2,Sun,3,4,3,2,5,6,4,4,2,5,6,3,4,2,5,3,4,5
+Rory Elroy  ,Cary 2,Sun,5,2,6,2,4,3,5,2,5,4,4,5,6,2,4,6,5,5
+Jason Night ,Cary 2,Sun,4,6,6,4,5,4,7,4,6,5,2,3,4,3,3,6,6,6
+Dusty Johns ,Cary 2,Sun,2,4,6,6,5,6,5,5,3,6,2,3,2,5,6,6,4,5
+Lee Trevor  ,Cary 2,Sun,2,3,4,6,4,5,6,2,4,6,5,5,6,2,3,6,2,4
+Jose Garcia ,Cary 2,Sun,4,2,2,3,3,4,5,2,6,5,3,6,6,2,5,4,6,5
+Tim Hurst   ,Cary 2,Sun,2,3,6,3,4,4,6,2,5,5,2,6,5,4,5,4,6,2
+Greg Bond   ,Cary 2,Sun,4,3,6,6,2,3,5,3,6,5,6,3,6,2,4,2,3,2
+Ricky Walker,Cary 2,Sun,4,6,5,4,5,5,4,5,2,3,4,4,4,2,5,2,4,4
+Jacob Fowler,Cary 2,Sun,4,2,3,4,2,4,3,2,3,6,5,3,2,4,2,6,2,4
+Jonah Vegas ,Cary 2,Sun,3,5,6,4,5,2,4,2,3,5,3,3,5,4,5,2,3,6
+Kevin Nay   ,Cary 2,Sun,5,5,3,6,4,3,3,6,6,7,3,6,2,3,2,3,2,2
+Scott Kelly ,Cary 2,Sun,6,3,4,6,2,3,4,4,2,4,3,3,6,5,2,4,4,5
+Dick Blend  ,Cary 3,Thu,4,4,3,4,3,2,3,5,4,3,4,4,3,5,6,2,2,6        
+Alex Kahn   ,Cary 3,Thu,4,6,2,5,4,3,5,6,3,7,6,6,4,2,2,4,3,4
+Jerry Owens ,Cary 3,Thu,6,5,6,3,2,2,7,4,2,3,4,4,6,4,2,2,5,4
+Leon Woods  ,Cary 3,Thu,5,5,4,6,3,3,4,4,3,7,6,3,3,3,5,6,2,5
+Phil Mickey ,Cary 3,Thu,4,4,4,6,3,3,5,5,2,6,5,2,2,4,5,6,2,3
+Arnie Ponds ,Cary 3,Thu,6,5,2,5,4,4,4,5,5,4,6,2,6,2,2,5,5,2
+Rory Elroy  ,Cary 3,Thu,3,5,2,2,4,4,7,3,3,7,4,2,5,3,2,5,2,6
+Jason Night ,Cary 3,Thu,3,6,3,4,2,5,7,4,2,3,5,4,6,3,4,3,2,2
+David Horse ,Cary 3,Thu,4,3,2,5,4,6,6,4,3,4,2,4,4,3,3,6,5,3
+James Hand  ,Cary 3,Thu,4,5,2,5,4,5,4,3,2,4,4,5,2,5,2,4,5,2
+Jack Nickels,Cary 3,Thu,5,2,6,6,4,3,5,5,3,3,4,4,5,2,5,6,6,4
+Tim Hurst   ,Cary 3,Thu,3,6,4,6,4,6,5,4,5,4,6,6,2,2,6,6,6,3
+Greg Bond   ,Cary 3,Thu,4,4,6,4,5,6,7,3,3,3,6,4,3,3,6,3,3,5
+Ricky Walker,Cary 3,Thu,5,2,2,3,2,4,7,6,2,6,5,5,2,3,4,2,4,2
+Jacob Fowler,Cary 3,Thu,3,6,6,2,5,3,5,5,6,4,4,6,3,5,3,5,6,3
+Dick Blend  ,Cary 3,Fri,5,5,6,2,5,6,3,5,4,7,2,5,5,4,5,5,6,5        
+Alex Kahn   ,Cary 3,Fri,4,4,5,6,3,3,6,3,6,4,5,5,3,4,3,6,2,3
+Jerry Owens ,Cary 3,Fri,2,2,3,4,5,6,4,4,6,5,4,3,3,5,6,5,4,3
+Leon Woods  ,Cary 3,Fri,2,2,3,4,2,4,6,2,2,5,5,4,3,3,6,5,6,4
+Phil Mickey ,Cary 3,Fri,2,6,6,2,3,5,7,6,4,6,4,2,4,5,3,5,3,6
+Arnie Ponds ,Cary 3,Fri,3,5,6,3,2,4,6,2,5,6,6,4,5,3,4,6,5,4
+Rory Elroy  ,Cary 3,Fri,6,4,6,5,3,4,3,3,3,4,4,2,6,2,2,4,5,2
+Jason Night ,Cary 3,Fri,6,5,2,3,2,5,4,5,4,4,5,3,6,4,6,5,2,3
+David Horse ,Cary 3,Fri,5,3,3,5,3,6,6,4,6,6,5,3,6,5,4,3,4,3
+James Hand  ,Cary 3,Fri,3,6,6,3,3,5,4,6,4,7,5,5,5,2,4,4,2,3
+Jack Nickels,Cary 3,Fri,4,5,4,6,4,2,7,2,2,7,3,3,3,5,5,4,4,4
+Tim Hurst   ,Cary 3,Fri,2,2,6,5,4,5,3,6,2,4,2,2,2,4,6,4,2,4
+Greg Bond   ,Cary 3,Fri,3,4,2,5,2,6,4,5,3,4,5,6,3,3,5,6,6,6
+Ricky Walker,Cary 3,Fri,4,3,5,5,2,5,7,5,6,3,5,3,2,4,4,4,2,5
+Jacob Fowler,Cary 3,Fri,4,4,6,2,2,4,4,2,6,7,4,4,3,4,5,5,6,3
+Dick Blend  ,Cary 3,Sat,3,3,4,6,5,5,3,5,5,5,2,6,6,5,3,3,5,3        
+Alex Kahn   ,Cary 3,Sat,4,3,2,2,4,2,7,4,6,5,5,6,2,4,6,4,6,4
+Jerry Owens ,Cary 3,Sat,6,5,2,2,3,6,7,5,5,5,3,3,2,4,2,4,3,6
+Leon Woods  ,Cary 3,Sat,6,5,4,6,4,3,4,2,3,4,6,3,2,4,2,5,2,4
+Phil Mickey ,Cary 3,Sat,3,5,4,4,2,6,3,5,4,4,5,3,5,2,3,6,6,6
+Arnie Ponds ,Cary 3,Sat,5,5,6,4,2,6,7,6,3,6,6,6,3,2,4,2,6,4
+Rory Elroy  ,Cary 3,Sat,5,3,5,4,4,6,6,6,3,3,2,6,5,4,3,3,4,4
+Jason Night ,Cary 3,Sat,6,4,2,6,4,4,7,3,2,5,3,6,2,5,5,3,6,2
+David Horse ,Cary 3,Sat,4,5,5,5,2,4,6,4,4,6,6,2,4,2,6,3,5,6
+James Hand  ,Cary 3,Sat,4,4,5,6,5,6,5,6,4,6,6,2,3,3,3,4,5,2
+Jack Nickels,Cary 3,Sat,5,2,6,6,5,4,5,3,6,5,3,5,3,2,4,2,3,5
+Tim Hurst   ,Cary 3,Sat,2,3,6,5,4,5,7,5,3,7,2,3,3,2,5,5,4,4
+Greg Bond   ,Cary 3,Sat,2,5,5,4,4,2,5,3,3,3,2,3,2,3,3,2,5,4
+Ricky Walker,Cary 3,Sat,4,3,4,6,3,4,5,5,3,7,6,4,5,5,3,5,6,6
+Jacob Fowler,Cary 3,Sat,5,2,5,3,3,5,7,3,5,7,2,6,3,2,2,6,5,5
+Dick Blend  ,Cary 3,Sun,4,3,5,4,3,5,5,6,4,6,2,5,6,3,4,4,4,5        
+Alex Kahn   ,Cary 3,Sun,4,3,3,3,2,5,5,3,2,7,5,2,6,2,5,3,6,4
+Jerry Owens ,Cary 3,Sun,3,3,6,2,5,4,5,4,3,7,6,4,6,3,4,5,3,5
+Leon Woods  ,Cary 3,Sun,3,4,2,3,5,2,7,4,3,5,5,4,6,3,2,4,6,3
+Phil Mickey ,Cary 3,Sun,6,2,5,6,4,3,4,6,6,4,2,2,5,2,5,3,2,2
+Arnie Ponds ,Cary 3,Sun,6,4,4,4,4,4,6,3,5,3,3,5,4,5,2,3,4,5
+Rory Elroy  ,Cary 3,Sun,3,3,6,5,5,5,5,3,6,7,3,3,4,4,4,2,3,6
+Jason Night ,Cary 3,Sun,6,3,2,3,5,2,6,2,2,3,6,5,5,5,3,3,6,3
+David Horse ,Cary 3,Sun,3,4,4,5,2,4,6,4,4,4,2,5,3,2,5,5,5,5
+James Hand  ,Cary 3,Sun,3,6,4,4,3,2,5,2,2,3,4,3,6,4,5,3,6,2
+Jack Nickels,Cary 3,Sun,5,3,6,6,5,6,4,4,4,6,2,2,2,2,6,5,4,6
+Tim Hurst   ,Cary 3,Sun,2,6,4,4,4,5,6,2,5,3,5,4,6,5,6,6,4,4
+Greg Bond   ,Cary 3,Sun,6,6,2,6,2,2,4,2,2,3,4,4,2,4,4,5,4,4
+Ricky Walker,Cary 3,Sun,3,3,4,6,2,2,4,5,6,5,4,4,3,2,5,6,2,2
+Jacob Fowler,Cary 3,Sun,2,5,3,6,4,2,6,6,3,7,6,5,3,3,4,2,5,5
+Tony Fiend  ,Apex 1,Fri,5,5,6,5,3,2,2,2,4,5,6,6,3,2,2,5,4,5
+Bob Stripe  ,Apex 1,Fri,2,6,6,6,2,2,4,4,4,4,7,6,4,5,4,3,6,2
+Matt Lust   ,Apex 1,Fri,3,3,3,3,2,3,4,6,3,5,6,6,3,2,3,3,4,6
+Dick Blend  ,Apex 1,Fri,5,3,6,5,6,6,3,5,3,6,6,6,3,4,5,6,2,4
+Alex Kahn   ,Apex 1,Fri,5,5,5,3,5,6,2,6,4,4,7,6,4,6,4,2,4,6
+Jerry Owens ,Apex 1,Fri,4,2,6,6,3,3,3,6,3,4,6,6,5,2,3,6,5,3
+Leon Woods  ,Apex 1,Fri,6,5,2,3,4,5,5,6,2,2,3,6,6,2,3,2,5,5
+Phil Mickey ,Apex 1,Fri,3,5,3,3,6,3,4,2,4,4,6,5,3,4,3,4,3,3
+Sam Smith   ,Apex 1,Fri,4,2,5,7,3,3,4,4,5,4,6,2,4,3,2,5,5,3
+Joe Watson  ,Apex 1,Fri,5,3,2,3,3,4,4,4,4,3,6,2,4,4,3,5,6,5
+Tom Watts   ,Apex 1,Fri,2,6,5,6,6,2,4,6,2,2,5,3,6,3,3,6,6,5
+David Horse ,Apex 1,Fri,2,4,6,5,6,5,5,5,5,6,4,5,3,4,5,3,5,6
+James Hand  ,Apex 1,Fri,4,4,4,5,6,5,3,5,5,6,3,6,3,3,3,3,3,6
+Jack Nickels,Apex 1,Fri,6,5,2,6,2,3,4,2,2,6,6,5,4,3,3,4,6,2
+Tim Hurst   ,Apex 1,Fri,6,6,4,5,4,5,3,6,5,6,3,3,3,3,2,4,4,6
+Tony Fiend  ,Apex 1,Sat,2,4,5,6,4,4,4,3,5,6,7,6,4,2,5,4,4,4
+Bob Stripe  ,Apex 1,Sat,6,5,3,7,2,6,5,2,6,6,7,5,5,5,2,6,3,5
+Matt Lust   ,Apex 1,Sat,5,4,5,5,3,3,2,6,6,3,6,3,4,5,3,3,3,3
+Dick Blend  ,Apex 1,Sat,3,2,6,4,5,4,4,2,2,3,5,5,3,5,3,4,5,5
+Alex Kahn   ,Apex 1,Sat,6,2,3,3,3,5,2,3,6,5,4,4,4,3,2,6,3,5
+Jerry Owens ,Apex 1,Sat,6,4,6,5,5,2,5,6,3,4,7,6,3,4,2,4,6,4
+Leon Woods  ,Apex 1,Sat,3,3,2,4,5,4,2,6,4,2,6,6,6,3,4,4,5,2
+Phil Mickey ,Apex 1,Sat,2,4,2,5,3,5,5,4,6,2,7,4,6,3,4,3,5,3
+Sam Smith   ,Apex 1,Sat,5,6,5,7,6,4,2,2,6,2,7,3,6,4,5,6,5,5
+Joe Watson  ,Apex 1,Sat,5,2,4,6,6,2,2,5,2,3,4,6,6,2,4,6,6,2
+Tom Watts   ,Apex 1,Sat,6,2,3,4,5,2,5,6,6,5,3,4,2,2,3,3,6,2
+David Horse ,Apex 1,Sat,2,6,5,6,3,5,3,4,6,2,6,2,5,5,5,5,2,2
+James Hand  ,Apex 1,Sat,6,3,2,4,4,2,4,2,5,4,6,5,3,3,4,5,2,4
+Jack Nickels,Apex 1,Sat,3,5,6,4,3,5,4,6,4,5,6,2,2,3,2,4,4,2
+Tim Hurst   ,Apex 1,Sat,6,5,5,5,5,5,4,3,6,3,4,2,6,2,5,5,5,2
+Tony Fiend  ,Apex 1,Sun,4,6,3,7,4,2,3,5,6,2,3,4,3,3,3,2,3,5
+Bob Stripe  ,Apex 1,Sun,5,3,6,5,5,6,4,6,2,2,3,3,3,4,5,6,2,4
+Matt Lust   ,Apex 1,Sun,2,2,4,6,5,2,4,5,3,3,5,5,5,5,4,2,3,3
+Dick Blend  ,Apex 1,Sun,4,2,6,6,5,3,3,4,5,6,3,4,6,6,2,3,4,4
+Alex Kahn   ,Apex 1,Sun,2,3,6,6,4,6,5,3,3,3,4,5,4,4,3,2,4,2
+Jerry Owens ,Apex 1,Sun,5,3,3,3,4,4,2,4,3,6,3,2,2,5,3,6,2,5
+Leon Woods  ,Apex 1,Sun,3,4,5,3,3,3,4,4,3,5,6,2,6,6,3,6,5,3
+Phil Mickey ,Apex 1,Sun,2,5,2,5,5,2,5,6,4,2,7,5,6,3,2,5,4,3
+Sam Smith   ,Apex 1,Sun,4,5,2,5,2,4,2,5,4,3,6,6,3,5,4,5,6,4
+Joe Watson  ,Apex 1,Sun,3,5,5,7,4,5,4,4,4,5,7,6,6,4,3,3,3,6
+Tom Watts   ,Apex 1,Sun,3,6,6,4,3,2,3,5,4,4,6,5,5,6,2,4,4,2
+David Horse ,Apex 1,Sun,4,4,5,4,4,3,4,5,5,5,4,3,5,3,4,2,2,5
+James Hand  ,Apex 1,Sun,5,3,5,4,5,3,2,6,5,3,6,4,2,3,2,6,2,3
+Jack Nickels,Apex 1,Sun,6,2,6,5,3,2,2,3,5,2,6,5,6,6,4,4,4,3
+Tim Hurst   ,Apex 1,Sun,3,3,6,3,5,4,5,5,3,2,4,6,3,4,2,5,6,2
+Scott Kelly ,Apex 2,Thu,6,5,3,5,4,6,5,2,5,6,7,6,5,3,3,2,3,5
+Luke Jones  ,Apex 2,Thu,5,6,4,5,4,6,5,4,6,6,3,4,2,3,2,3,5,4
+Sean Lard   ,Apex 2,Thu,3,4,2,7,3,6,3,5,3,6,5,6,6,6,4,2,5,3
+Tony Fiend  ,Apex 2,Thu,6,3,2,5,2,3,5,4,2,4,5,3,5,2,3,2,5,2
+Bob Stripe  ,Apex 2,Thu,5,6,3,6,3,4,3,4,6,3,5,4,4,5,4,3,2,6
+Matt Lust   ,Apex 2,Thu,5,5,2,7,3,2,2,6,6,5,4,4,4,6,3,4,6,3
+Dick Blend  ,Apex 2,Thu,5,6,6,4,4,3,4,3,6,5,4,6,3,2,3,3,2,6
+Alex Kahn   ,Apex 2,Thu,3,5,5,5,4,4,3,5,6,2,6,4,5,5,3,4,6,5
+Lee Trevor  ,Apex 2,Thu,4,6,6,6,4,6,5,3,3,5,4,6,6,3,5,3,3,6
+Jose Garcia ,Apex 2,Thu,3,6,6,5,2,4,5,3,4,4,4,6,4,3,3,6,5,3
+Andy Palmer ,Apex 2,Thu,3,5,2,5,5,6,3,3,5,5,6,4,2,3,2,3,5,2
+Sam Smith   ,Apex 2,Thu,6,5,2,5,5,3,2,3,3,6,6,4,6,2,2,6,3,2
+Joe Watson  ,Apex 2,Thu,4,5,5,7,5,3,5,2,6,3,4,2,6,3,4,6,2,3
+Tom Watts   ,Apex 2,Thu,2,3,3,5,5,4,2,4,5,2,5,3,6,5,4,5,5,2
+David Horse ,Apex 2,Thu,5,5,3,3,5,4,2,6,2,4,7,4,3,4,2,5,4,4
+Scott Kelly ,Apex 2,Fri,6,5,5,6,5,4,2,2,6,4,5,3,6,4,2,4,2,3
+Luke Jones  ,Apex 2,Fri,5,4,4,7,2,3,3,6,4,5,5,5,6,4,2,6,6,4
+Sean Lard   ,Apex 2,Fri,6,5,2,7,4,3,2,4,3,5,7,3,3,5,2,6,2,2
+Tony Fiend  ,Apex 2,Fri,5,6,2,7,4,5,3,2,6,6,6,6,5,6,3,6,5,5
+Bob Stripe  ,Apex 2,Fri,4,6,6,3,2,2,4,6,5,3,4,6,4,6,2,2,4,6
+Matt Lust   ,Apex 2,Fri,2,4,2,5,2,3,2,3,4,5,3,3,2,5,2,3,4,6
+Dick Blend  ,Apex 2,Fri,5,5,5,7,2,3,3,3,2,6,6,4,3,5,5,2,6,5
+Alex Kahn   ,Apex 2,Fri,6,3,5,5,6,4,5,4,3,4,4,4,4,6,5,3,2,2
+Lee Trevor  ,Apex 2,Fri,5,2,3,4,3,4,3,2,2,3,4,2,3,5,4,4,4,2
+Jose Garcia ,Apex 2,Fri,6,2,5,6,3,6,3,2,4,3,3,2,5,6,3,5,6,6
+Andy Palmer ,Apex 2,Fri,6,5,5,4,2,5,3,6,4,2,7,2,2,5,4,4,3,4
+Sam Smith   ,Apex 2,Fri,4,2,3,3,6,5,2,6,2,4,3,5,2,6,3,4,2,4
+Joe Watson  ,Apex 2,Fri,6,5,4,7,6,4,4,4,2,6,6,3,5,2,5,3,4,5
+Tom Watts   ,Apex 2,Fri,4,3,2,4,5,6,3,6,4,3,4,3,3,2,4,5,4,5
+David Horse ,Apex 2,Fri,2,2,3,4,2,3,3,3,6,3,3,6,6,4,4,2,2,3
+Scott Kelly ,Apex 2,Sat,5,6,4,7,6,3,5,6,5,2,5,3,2,3,2,5,3,6
+Luke Jones  ,Apex 2,Sat,3,5,3,4,5,4,2,6,4,2,3,2,5,5,3,6,6,5
+Sean Lard   ,Apex 2,Sat,3,2,3,5,3,3,5,4,5,6,3,2,5,4,5,4,4,3
+Tony Fiend  ,Apex 2,Sat,6,6,6,4,6,4,3,6,2,2,6,5,4,3,3,2,6,6
+Bob Stripe  ,Apex 2,Sat,6,5,5,7,5,5,5,2,2,6,7,2,3,5,5,4,2,6
+Matt Lust   ,Apex 2,Sat,6,2,3,6,5,4,5,6,6,2,7,3,4,3,5,5,6,3
+Dick Blend  ,Apex 2,Sat,2,3,2,3,6,6,3,6,6,3,6,3,4,3,5,6,4,5
+Alex Kahn   ,Apex 2,Sat,4,3,5,6,6,3,3,2,6,2,5,5,4,2,3,6,2,3
+Lee Trevor  ,Apex 2,Sat,3,2,3,5,5,6,3,4,6,6,7,3,6,5,3,2,5,3
+Jose Garcia ,Apex 2,Sat,3,2,6,6,3,5,2,2,2,2,4,4,6,5,2,2,4,2
+Andy Palmer ,Apex 2,Sat,5,3,3,6,6,5,3,6,6,5,6,5,5,2,3,2,5,4
+Sam Smith   ,Apex 2,Sat,6,3,6,4,6,5,5,2,2,5,3,5,2,4,4,6,6,3
+Joe Watson  ,Apex 2,Sat,4,3,2,7,6,4,5,4,2,3,4,2,2,3,3,4,6,5
+Tom Watts   ,Apex 2,Sat,5,6,4,4,5,5,4,6,3,6,3,2,6,4,5,5,6,3
+David Horse ,Apex 2,Sat,5,6,6,3,3,4,4,3,2,2,7,4,5,6,5,4,4,2
+Scott Kelly ,Apex 2,Sun,4,5,3,7,4,2,5,2,3,3,5,3,4,5,5,2,3,6
+Luke Jones  ,Apex 2,Sun,4,3,4,7,3,6,4,6,4,5,3,5,4,3,3,3,6,5
+Sean Lard   ,Apex 2,Sun,4,2,2,5,5,5,3,5,4,5,3,6,4,2,5,3,4,2
+Tony Fiend  ,Apex 2,Sun,5,6,3,7,2,6,4,4,2,2,5,3,4,3,5,4,5,6
+Bob Stripe  ,Apex 2,Sun,4,3,6,5,6,6,5,3,5,5,4,3,2,2,4,5,2,6
+Matt Lust   ,Apex 2,Sun,6,4,2,6,4,2,5,5,4,3,7,5,2,2,4,6,2,2
+Dick Blend  ,Apex 2,Sun,3,2,3,3,3,6,4,3,3,4,6,6,5,3,3,2,2,4
+Alex Kahn   ,Apex 2,Sun,4,2,3,3,3,2,2,5,4,4,4,4,6,5,4,2,4,5
+Lee Trevor  ,Apex 2,Sun,2,4,5,6,5,4,4,5,5,4,5,5,4,6,5,2,4,2
+Jose Garcia ,Apex 2,Sun,5,3,4,7,2,3,2,5,4,3,5,4,2,4,5,5,6,4
+Andy Palmer ,Apex 2,Sun,4,4,5,4,2,4,5,6,3,5,4,4,4,4,4,5,6,4
+Sam Smith   ,Apex 2,Sun,6,5,2,7,4,3,5,5,2,6,7,3,4,5,3,4,4,4
+Joe Watson  ,Apex 2,Sun,5,2,6,5,3,2,4,2,4,2,3,4,6,2,5,6,4,5
+Tom Watts   ,Apex 2,Sun,6,5,6,5,6,5,5,5,3,6,4,2,4,5,3,5,4,6
+David Horse ,Apex 2,Sun,2,2,6,3,6,4,3,6,2,2,5,2,4,4,2,6,6,5
+Jacob Fowler,Apex 3,Sat,2,2,5,5,3,2,2,3,3,2,7,5,5,4,2,4,4,3
+Jonah Vegas ,Apex 3,Sat,4,4,6,6,6,4,3,2,5,6,7,6,3,2,3,2,3,3
+Kevin Nay   ,Apex 3,Sat,2,4,2,7,6,4,3,3,2,3,7,5,3,6,3,5,6,2
+Scott Kelly ,Apex 3,Sat,5,2,6,6,3,3,5,5,3,4,5,6,5,4,2,4,6,5
+Luke Jones  ,Apex 3,Sat,4,2,5,7,5,4,4,5,3,5,7,5,3,6,4,5,3,4
+Sean Lard   ,Apex 3,Sat,4,3,6,4,5,6,4,3,2,5,6,4,2,4,2,2,4,2
+Tony Fiend  ,Apex 3,Sat,5,6,2,5,2,4,3,5,3,2,6,5,6,5,5,6,6,6
+Bob Stripe  ,Apex 3,Sat,5,2,2,4,2,2,2,3,6,3,6,3,3,3,4,4,5,4
+Rory Elroy  ,Apex 3,Sat,2,5,2,7,5,4,2,6,4,4,6,5,3,4,2,2,2,2
+Jason Night ,Apex 3,Sat,4,2,2,6,2,2,3,5,2,4,3,3,6,6,5,5,3,2
+Dusty Johns ,Apex 3,Sat,4,3,4,7,2,5,3,4,3,2,7,4,6,6,2,5,3,5
+Lee Trevor  ,Apex 3,Sat,6,4,6,3,2,4,2,5,6,4,6,2,2,5,4,3,4,3
+Jose Garcia ,Apex 3,Sat,4,3,3,5,5,2,4,5,3,5,3,6,2,5,5,3,2,3
+Andy Palmer ,Apex 3,Sat,6,3,5,5,6,5,2,5,6,2,3,5,5,4,4,5,2,6
+Sam Smith   ,Apex 3,Sat,4,3,4,4,2,4,2,2,6,5,7,4,4,5,4,4,3,3
+Jacob Fowler,Apex 3,Sun,3,5,5,6,3,6,3,6,4,6,6,6,3,2,3,4,6,5
+Jonah Vegas ,Apex 3,Sun,3,3,5,5,4,5,4,5,4,2,5,5,5,3,5,6,3,5
+Kevin Nay   ,Apex 3,Sun,3,4,5,3,4,6,4,6,5,4,3,5,5,5,5,4,6,6
+Scott Kelly ,Apex 3,Sun,6,4,4,3,6,4,2,5,2,2,5,6,5,5,5,6,5,3
+Luke Jones  ,Apex 3,Sun,2,4,5,7,5,6,5,3,5,5,7,5,5,3,2,6,2,2
+Sean Lard   ,Apex 3,Sun,5,4,4,3,3,2,5,2,6,5,3,4,3,6,3,6,3,6
+Tony Fiend  ,Apex 3,Sun,2,6,4,3,5,5,3,2,4,3,7,3,5,3,3,2,3,6
+Bob Stripe  ,Apex 3,Sun,5,6,6,5,6,2,4,2,2,5,5,6,6,4,4,5,6,4
+Rory Elroy  ,Apex 3,Sun,2,4,5,5,5,3,2,2,2,6,6,4,6,4,3,6,6,3
+Jason Night ,Apex 3,Sun,3,6,4,4,3,4,3,6,4,6,4,2,3,4,5,5,4,4
+Dusty Johns ,Apex 3,Sun,5,5,2,5,4,6,4,4,5,5,7,5,4,6,5,2,5,6
+Lee Trevor  ,Apex 3,Sun,6,4,4,7,4,5,4,3,5,5,4,3,4,3,3,4,2,5
+Jose Garcia ,Apex 3,Sun,5,2,4,6,4,6,4,5,3,3,6,4,4,3,5,4,4,2
+Andy Palmer ,Apex 3,Sun,6,5,3,6,3,2,3,3,4,3,3,2,4,4,5,4,2,3
+Sam Smith   ,Apex 3,Sun,5,5,5,6,3,3,2,6,2,4,5,5,6,5,4,3,2,2
